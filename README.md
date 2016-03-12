@@ -21,3 +21,6 @@ C) If "an issue is closed" then "move a trello card"
 
 D) If "a trello card is moved" then "close an issue"
 
+
+---- Moving to a python based hook because I can read python much better than ruby.
+
