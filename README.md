@@ -24,3 +24,5 @@ D) If "a trello card is moved" then "close an issue"
 
 ---- Moving to a python based hook because I can read python much better than ruby.
 ---- Huzzah, a response from the server was received! It didn't do anything to the trello board, but at least I have something to work with now.
+
+--- Switching to python seems to be much more understandable. With this commit, I'm trying to open a new card.
